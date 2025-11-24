@@ -25,4 +25,5 @@ El sistema de HelpDesk permite:}
 │       │   └── logic/            
 │       │       └── GestorHelpDesk.java
 │       └── dl/                   
-│           └── Repomemory.java```
+│           └── Repomemory.java
+```
