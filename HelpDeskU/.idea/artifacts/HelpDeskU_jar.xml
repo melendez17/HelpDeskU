@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelpDeskU:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelpDeskU_jar</output-path>
+    <root id="archive" name="HelpDeskU.jar">
+      <element id="module-output" name="HelpDeskU" />
+    </root>
+  </artifact>
+</component>

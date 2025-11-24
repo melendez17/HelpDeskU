@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cr.ac.ucenfotec.helpdesku.bl.entities"},{"l":"cr.ac.ucenfotec.helpdesku.bl.logic"},{"l":"cr.ac.ucenfotec.helpdesku.dl"}];updateSearchResults();
